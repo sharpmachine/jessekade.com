@@ -9,7 +9,7 @@ Description: This description will go in the meta description tag
 	<h1 class="title">UX Designer <span class="ampersand">&amp;</span> UI Developer</h1>
 	<h2 class="hidden-xs">Let's build epic shit together</h2>
 	<div class="jumbo-call">
-		<a href="#what-we-do" class="btn btn-cream btn-lg" role="button">My Work</a>
+		<a href="#recent-work" class="btn btn-cream btn-lg" role="button">My Work</a>
 	</div>
 	<div class="down-arrow"><img src="themes/smm/img/down-arrow.svg" alt="Down Arrow"></div>
 </section>
