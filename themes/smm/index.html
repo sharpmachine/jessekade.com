@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Sharp Machine offers outstanding branding, strategy and design services for those who demand the best.">
+  <meta name="author" content="Sharp Machine Media">
+  <meta property="og:image" content="http://sharpmachinemedia.com/themes/smm/img/screen.jpg"/>
+  <link rel="shortcut icon" href="{{ theme_url }}/img/ico/favicon.ico">
+
+  <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+  <link href="{{ theme_url }}/css/bootstrap.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="{{ theme_url }}/css/modal.css" rel="stylesheet">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+      <![endif]-->
+    </head>
+    <body class="preload">
+
+      <div id="wrap">
+
+        <!-- START: Navigation -->
+        <div class="navbar-wrapper">
+          <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ base_url }}"><img src="{{ theme_url }}/img/jesse_logo.svg" height="65px" alt="Sharp Machine Icon"></a>
+                <ul class="nav nav-pills center-block visible-xs">
+                  <li><a href="mailto:jessekade@gmail.com">Get in Touch</a></li>
+                </ul>
+              </div>
+              <div class="navbar-collapse collapse text-right">
+                <ul class="nav navbar-nav hidden">
+                  <li><a href="{{ base_url }}/work">Work</a></li>
+                  <li><a href="{{ base_url }}/services">Services</a></li>
+                  <li><a href="{{ base_url }}/about">About</a></li>
+                </ul>
+                <ul class="nav nav-pills pull-right hidden-xs">
+                  <li><a href="mailto:jessekade@gmail.com">Get in Touch</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- END: Navigation -->
+
+        <!-- START: Content -->
+        {{ content }}
+        <!-- END: Content -->
+
+      </div><!-- END: #wrap -->
+
+      <!-- START: Footer -->
+      <footer class="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
+              <div class="contact-deets">
+                <h2>Get in touch</h2>
+
+                <!-- Phone -->
+                <div class="contact-method">
+                  <div class="dividing-line"></div>
+                  <div class="dividing-line right"></div>
+                  phone
+                </div>
+                <div class="contact-detail phone">
+                  <a href="tel:5306383581">619.398.7595</a>
+                </div>
+
+                <!-- Email -->
+                <div class="contact-method">
+                  <div class="dividing-line"></div>
+                  <div class="dividing-line right"></div>
+                  email
+                </div>
+                <div class="contact-detail email">
+                  <a href="mailto:hello@sharpmachinemedia.com">jessekade@gmail.com</a>
+                </div>
+
+                <!-- Office -->
+                <div class="contact-method">
+                  <div class="dividing-line"></div>
+                  <div class="dividing-line right"></div>
+                  office
+                </div>
+                <div class="contact-detail address">
+                  <a href="https://www.google.com/maps/place/Sharp+Machine+Media/@40.5836091,-122.394609,17z/data=!3m1!4b1!4m2!3m1!1s0x54d2ece27769b4a5:0x9a187dacac20342c">
+                    <address>
+                      <span class="mccormick-mansion hidden">M<span class="lowercase">c</span>Cormick Mansion</span>
+                      <span class="street hidden">1452 Oregon Street</span>
+                      <span class="city-state-zip">Orange County, CA</span>
+                    </address>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Web -->
+              <div class="social-media cream">
+                <a href="http://www.facebook.com/jessekadegettinpaid"><i class="fa fa-facebook"></i></a>
+                <a href="http://www.twitter.com/kadejesse"><i class="fa fa-twitter"></i></a>
+                <a href="https://plus.google.com/u/1/+JesseKade_is_here"><i class="fa fa-google-plus"></i></a>
+                <a href="http://www.linkedin.com/in/jessekade/"><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- END: Footer -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- // <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
+    <script src="{{ base_url }}/bower_components/jquery/dist/jquery.js"></script>
+    <script src="{{ theme_url }}/js/plugins.min.js"></script>
+  
+
+    <script src="{{ theme_url }}/js/scripts.min.js"></script>
+  </body>
+  </html>
