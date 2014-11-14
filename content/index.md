@@ -15,7 +15,8 @@ Description: This description will go in the meta description tag
 </section>
 
 <!-- My Work -->
-<section id="recent-work">
+<div id="recent-work" class="anchor"></div>
+<section id="work">
 	<div class="container">
 		<h2 class="headline text-center">My Work</h2>
 		<div class="row">
