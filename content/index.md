@@ -73,7 +73,7 @@ Description: This description will go in the meta description tag
 
 <!-- About Me -->
 <div id="what-we-do" class="anchor"></div>
-<section id="services" class="hidden-xs">
+<section id="services">
 	<div class="container">
 		<h2 class="headline text-center">About Me</h2>
 		<div class="row">
