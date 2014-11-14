@@ -1,6 +1,6 @@
 /*
-Title: Branding, Strategy &amp; Design
-Description: This description will go in the meta description tag
+Title: UX Designer &amp; UI Developer
+Description: I love to create delightful experiences on the web
 */
 
 <!-- jumbotron -->
