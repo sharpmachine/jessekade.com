@@ -9,13 +9,13 @@ Description: I love to create delightful experiences on the web
 	<h1 class="title">UX Designer <span class="ampersand">&amp;</span> UI Developer</h1>
 	<h2 class="hidden-xs">Let's build epic shit together</h2>
 	<div class="jumbo-call">
-		<a href="#recent-work" class="btn btn-cream btn-lg" role="button">My Work</a>
+		<a href="#work" class="btn btn-cream btn-lg" role="button">My Work</a>
 	</div>
 	<div class="down-arrow"><img src="themes/smm/img/down-arrow.svg" alt="Down Arrow"></div>
 </section>
 
 <!-- My Work -->
-<div id="recent-work" class="anchor"></div>
+<div id="work" class="anchor"></div>
 <section id="work">
 	<div class="container">
 		<h2 class="headline text-center">My Work</h2>
@@ -67,14 +67,14 @@ Description: I love to create delightful experiences on the web
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Brand your company for where you want it to go, not where it's at.&#8221;</p>
+		<p class="lead">&#8220;Life is a series of experiences, some good, some bad. <br>My job is to help design the good ones.&#8221;</p>
 		<div class="accent"></div>
 	</div>
 </div>
 
 <!-- About Me -->
-<div id="what-we-do" class="anchor"></div>
-<section id="services">
+<div id="about-me" class="anchor"></div>
+<section id="me">
 	<div class="container">
 		<h2 class="headline text-center">About Me</h2>
 		<div class="row">
