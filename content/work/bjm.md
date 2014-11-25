@@ -8,7 +8,7 @@ Description: BJM Project Page
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Bill Johnson Ministries</h1>
-				<div class="page-header-subtitle">UX Research, Personas, IA, UI Development</div>
+				<div class="page-header-subtitle">UX Research, Personas, IA, Wireframes, UI Development</div>
 			</div>
 		</div>
 	</div>

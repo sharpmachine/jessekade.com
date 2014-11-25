@@ -8,7 +8,7 @@ Description: Project presentation for On the Beam
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">On the Beam</h1>
-				<div class="page-header-subtitle">UX Research, Personas, IA, Functional Specs, UX Design, UI Development</div>
+				<div class="page-header-subtitle">UX Research, Personas, IA, Functional Specs, Wireframes, Prototype, UI Development</div>
 			</div>
 		</div>
 	</div>

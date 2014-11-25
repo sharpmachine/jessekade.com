@@ -8,7 +8,7 @@ Description: Project presentation for Globacom
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Globacom</h1>
-				<div class="page-header-subtitle">UX Research, IA, UX Design, UI Development</div>
+				<div class="page-header-subtitle">UX Research, IA, Wireframes, Prototype, UI Development</div>
 			</div>
 		</div>
 	</div>
