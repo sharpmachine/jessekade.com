@@ -78,7 +78,7 @@ Description: Unlikley Heroes Project Page
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-4">
-						<a href="on-the-beam" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
+						<a href="globacom" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
 					</div>
 					<div class="col-sm-4">
 						<a href="../#work" class="btn btn-lg btn-black btn-block">All Work</a>

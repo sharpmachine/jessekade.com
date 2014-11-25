@@ -120,10 +120,10 @@ module.exports = function(grunt) {
                   // Set to true to enable the following options…
                   expand: true,
                   // cwd is 'current working directory'
-                  cwd: 'themes/smm/img/project-assets/was/',
+                  cwd: 'themes/smm/img/project-assets/otb/',
                   src: ['**/*.png'],
                   // Could also match cwd line above. i.e. themes/bootstrap/img/
-                  dest: 'themes/smm/img/project-assets/was/',
+                  dest: 'themes/smm/img/project-assets/otb/',
                   ext: '.png'
                 }
                 ]
@@ -137,10 +137,10 @@ module.exports = function(grunt) {
                   // Set to true to enable the following options…
                   expand: true,
                   // cwd is 'current working directory'
-                  cwd: 'themes/smm/img/project-assets/was/',
+                  cwd: 'themes/smm/img/project-assets/otb/',
                   src: ['**/*.jpg'],
                   // Could also match cwd. i.e. themes/bootstrap/img/
-                  dest: 'themes/smm/img/project-assets/was/',
+                  dest: 'themes/smm/img/project-assets/otb/',
                   ext: '.jpg'
                 }
                 ]

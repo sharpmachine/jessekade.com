@@ -21,6 +21,11 @@ Description: I love to create delightful experiences on the web
 		<h2 class="headline text-center">My Work</h2>
 		<div class="row">
 			<div class="col-sm-6 col-md-3 work-piece">
+				<a href="work/on-the-beam">
+					<img src="themes/smm/img/project-assets/otb/otb-sm.jpg" class="img-responsive" alt="On The Beam">
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-3 work-piece">
 				<a href="work/beauty-i-am">
 					<img src="themes/smm/img/project-assets/bia/bia-sm.jpg" class="img-responsive" alt="Beauty I Am">
 				</a>
@@ -28,11 +33,6 @@ Description: I love to create delightful experiences on the web
 			<div class="col-sm-6 col-md-3 work-piece">
 				<a href="work/globacom">
 					<img src="themes/smm/img/project-assets/globacom/globacom-sm.jpg" class="img-responsive" alt="Globacom">
-				</a>
-			</div>
-			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/on-the-beam">
-					<img src="themes/smm/img/project-assets/otb/otb-sm.jpg" class="img-responsive" alt="On The Beam">
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-3 work-piece">
