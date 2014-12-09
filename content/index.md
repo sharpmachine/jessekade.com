@@ -7,7 +7,7 @@ Description: I love to create delightful experiences on the web
 <section class="jumbotron text-center">
 	<img src="themes/smm/img/logo_no_name.svg" class="logo" alt="Sharp Machine Logo" width="160px" height="187px">
 	<h1 class="title">UX Designer <span class="ampersand">&amp;</span> UI Developer</h1>
-	<h2 class="hidden-xs">Let's build epic shit together</h2>
+	<h2 class="hidden-xs">Let's build epic things together</h2>
 	<div class="jumbo-call">
 		<a href="#work" class="btn btn-cream btn-lg" role="button">My Work</a>
 	</div>

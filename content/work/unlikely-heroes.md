@@ -8,7 +8,7 @@ Description: Unlikley Heroes Project Page
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Unlikely Heroes</h1>
-				<div class="page-header-subtitle">UX Research, Personas, IA, UI Development</div>
+				<div class="page-header-subtitle">Research, Personas, IA, UI Development</div>
 			</div>
 		</div>
 	</div>

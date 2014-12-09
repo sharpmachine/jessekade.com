@@ -8,7 +8,7 @@ Description: Project presentation for On the Beam
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">On the Beam</h1>
-				<div class="page-header-subtitle">UX Research, Functional Specs, IA, Prototype, Wireframes, UI Development</div>
+				<div class="page-header-subtitle">Research, Functional Specs, IA, Prototype, Wireframes, UI Development</div>
 			</div>
 		</div>
 	</div>
@@ -153,7 +153,7 @@ Description: Project presentation for On the Beam
 		<div class="row">
 			<aside class="col-sm-4 col-md-3">
 				<h3 class="libre h4">Wireframes:</h3>
-				<p>The whiteboard wires were done for the prototype, while the hi-fi wires were done after we understood what was good/bad about the prototype.  I worked closely with an amazing UI design, Lise-Marie Van Wyk, to build out these wires.</p>
+				<p>The whiteboard wires were done for the prototype, while the hi-fi wires were done after we understood what was good/bad about the prototype.  I worked closely with an amazing UI designer, <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a>, to build out these wires.</p>
 				<p><a href="https://drive.google.com/file/d/0BzuYARr9qAjKeDhxWk1lQ2RKVUE/view?usp=sharing">See full Wires</a></p>
 			</aside>
 			<div class="col-sm-8 col-md-4">
@@ -197,6 +197,7 @@ Description: Project presentation for On the Beam
 				<h3 class="libre h4">The Final Product:</h3>
 				<p><strong>Marketing Site:</strong> The team and I wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we strived to keep things simple and clear.</p>
 				<p><strong>Members Site:</strong> We wanted the membership site to feel more app-like than website-like; reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
+				<p>I coded the front-end using Bootstrap.  The back-end is using Ruby on Rails and was coded by <a href="http://www.linkedin.com/in/jonahdahlquist">Jonah Dahlquist</a>.</p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>

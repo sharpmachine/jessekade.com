@@ -8,7 +8,7 @@ Description: Project presentation for Beauty I AM
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Beauty I AM</h1>
-				<div class="page-header-subtitle">UX Research, Personas, IA, Wireframes, UI Development</div>
+				<div class="page-header-subtitle">Research, IA, Wireframes, UI &amp; WordPress Development</div>
 			</div>
 		</div>
 	</div>
