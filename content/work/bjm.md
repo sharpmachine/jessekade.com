@@ -8,7 +8,7 @@ Description: BJM Project Page
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Bill Johnson Ministries</h1>
-				<div class="page-header-subtitle">Research, IA, Wireframes, UI &amp; WordPress Development</div>
+				<div class="page-header-subtitle">Research, IA, Wireframes, UI Development, WordPress Development</div>
 			</div>
 		</div>
 	</div>
@@ -38,6 +38,7 @@ Description: BJM Project Page
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>For the web experience we were inspired by high-end print catalogs.  The focus was on strong typography, but ease of navigation.  We wanted the homepage to be a buffet of current happenings that the vistor could dig deeper into if they chose to do so.</p>
+				<p>Visual Designers: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a>, <a href="https://www.behance.net/johnjoddo">John Oddo</a>, <a href="https://www.linkedin.com/pub/justin-smith/20/133/36">Justin Smith</a></p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -48,6 +49,7 @@ Description: BJM Project Page
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>For the web experience we were inspired by high-end print catalogs.  The focus was on strong typography, but ease of navigation.  We wanted the homepage to be a buffet of current happenings that the vistor could dig deeper into if they chose to do so.</p>
+				<p>Visual Designers: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a>, <a href="https://www.behance.net/johnjoddo">John Oddo</a>, <a href="https://www.linkedin.com/pub/justin-smith/20/133/36">Justin Smith</a></p>
 			</aside>
 		</div>
 	</div>

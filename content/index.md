@@ -82,9 +82,9 @@ Description: I love to create delightful experiences on the web
 				<img src="themes/smm/img/jesse.jpg" class="img-responsive" alt="Jesse Kade" width="1110" height="1110">
 			</div>
 			<div class="col-sm-6">
-				<p>I've always been into computers. When I was very young my mom had a Macintosh at work. I'd make her bring it home on the weekends so I could play with it. As I got older I took every computer class at school that I could. This is where I learned how to make websites.</p>
-				<p>A few years ago I started Sharp Machine Media – a branding, strategy and design studio. We've done some amazing projects and built an amazing team. Through it all I've learned so much and grew greatly, not only as a UXer and coder, but also as a leader.</p>
-				<p>Recently my wife and I decided to make a move to Orange County, CA to purse more opportunities in our respective fields. I'd like to join a team of creatives that value excellence, innovation and personal growth.</p>
+				<p>User experience designer and front-end developer with a strong background in web-based products using user-centered design principles.</p>
+				<p>A few years ago I started Sharp Machine Media – a branding, strategy and design studio. We did some amazing projects and built an amazing team. Through it all I've learned so much and grew greatly, not only as a UXer and coder, but also as a leader.</p>
+				<p>Recently my wife and I decided to make a move to Orange County, CA to purse more opportunities in our respective fields. I'd like to join a team of great people that value excellence, innovation and personal growth. I firmly believe that when you surround yourself with great people great things happen.</p>
 				<p><small>note: I'm currently based in Redding, Ca but am moving to Orange County in a few months.</small></p>
 				<p>– Jesse</p>
 			</div>

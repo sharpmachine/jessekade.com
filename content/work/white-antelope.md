@@ -8,7 +8,7 @@ Description: White Antelope Studio project page
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">White Antelope Studio</h1>
-				<div class="page-header-subtitle">Research, IA, Wireframes, UI &amp; WordPress Development</div>
+				<div class="page-header-subtitle">Research, IA, Wireframes, UI Development, WordPress Development</div>
 			</div>
 		</div>
 	</div>
@@ -37,6 +37,7 @@ Description: White Antelope Studio project page
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>Much like the art, we wanted an experience that was unusual, but still easy to navigate.  We wanted to showcase the art, in an artistic way to reinforce the brand.</p>
+				<p>Visual Designer: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a></p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -59,6 +60,7 @@ Description: White Antelope Studio project page
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>Much like the art, we wanted an experience that was unusual, but still easy to navigate.  We wanted to showcase the art, in an artistic way to reinforce the brand.</p>
+				<p>Visual Designer: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a></p>
 			</aside>
 		</div>
 	</div>

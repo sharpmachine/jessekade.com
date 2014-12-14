@@ -60,6 +60,7 @@ Description: Project presentation for Globacom
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>The team and I wanted to clearly communicate the purpose of Globacom, as well communicate the features of the product line.</p>
+				<p>Visual Designers: <a href="http://bradwebster.squarespace.com/">Brad Webster</a>, <a href="http://scottdaviscreative.com/">Scott Davis</a></p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -70,6 +71,7 @@ Description: Project presentation for Globacom
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>The team and I wanted to clearly communicate the purpose of Globacom, as well communicate the features of the product line.</p>
+				<p>Visual Designers: <a href="http://bradwebster.squarespace.com/">Brad Webster</a>, <a href="http://scottdaviscreative.com/">Scott Davis</a></p>
 			</aside>
 		</div>
 	</div>

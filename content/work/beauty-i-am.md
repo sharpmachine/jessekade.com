@@ -8,7 +8,7 @@ Description: Project presentation for Beauty I AM
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Beauty I AM</h1>
-				<div class="page-header-subtitle">Research, IA, Wireframes, UI &amp; WordPress Development</div>
+				<div class="page-header-subtitle">Research, IA, Wireframes, UI Development, WordPress development</div>
 			</div>
 		</div>
 	</div>
@@ -37,6 +37,7 @@ Description: Project presentation for Beauty I AM
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>Given that BIA is going after people pursing careers in Hollywood, my team and I wanted the experience to feel high-fashion magazine like.  This meant great typography, strong visuals, and extremely high quality photography.</p>
+				<p>Visual Designer: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a></p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -91,6 +92,7 @@ Description: Project presentation for Beauty I AM
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>Given that BIA is going after people pursing careers in Hollywood, my team and I wanted the experience to feel high-fashion magazine like.  This meant great typography, strong visuals, and extremely high quality photography.</p>
+				<p>Visual Designer: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a></p>
 			</aside>
 		</div>
 	</div>

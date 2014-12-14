@@ -36,6 +36,7 @@ Description: Unlikley Heroes Project Page
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>The team and I really wanted to cut down on the clutter of the the old Unlikely Heroes website had so that the messaging would be very clear.  We also wanted to make sure the focus of the site was to accomplish the business objectives rather than distract users with tons of content.  So we opted for a clean and minimal design.</p>
+				<p>Visual Designer: <a href="http://frostcreative.co/">Chris Frost</a></p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -52,6 +53,7 @@ Description: Unlikley Heroes Project Page
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>The team and I really wanted to cut down on the clutter of the the old Unlikely Heroes website had so that the messaging would be very clear.  We also wanted to make sure the focus of the site was to accomplish the business objectives rather than distract users with tons of content.  So we opted for a clean and minimal design.</p>
+				<p>Visual Designer: <a href="http://frostcreative.co/">Chris Frost</a></p>
 			</aside>
 		</div>
 	</div>

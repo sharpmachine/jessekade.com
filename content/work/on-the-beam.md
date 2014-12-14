@@ -198,6 +198,7 @@ Description: Project presentation for On the Beam
 				<p><strong>Marketing Site:</strong> The team and I wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we strived to keep things simple and clear.</p>
 				<p><strong>Members Site:</strong> We wanted the membership site to feel more app-like than website-like; reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
 				<p>I coded the front-end using Bootstrap.  The back-end is using Ruby on Rails and was coded by <a href="http://www.linkedin.com/in/jonahdahlquist">Jonah Dahlquist</a>.</p>
+				<p>Visual Designer: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a></p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -291,6 +292,7 @@ Description: Project presentation for On the Beam
 				<h3 class="libre h4">On the Experience:</h3>
 				<p><strong>Marketing Site:</strong> The team and I wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we strived to keep things simple and clear.</p>
 				<p><strong>Members Site:</strong> We wanted the membership site to feel more app-like than website-like; reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
+				<p>Visual Designer: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a></p>
 			</aside>
 		</div>
 	</div>
