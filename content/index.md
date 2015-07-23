@@ -6,7 +6,7 @@ Description: I love to create delightful experiences on the web
 <!-- jumbotron -->
 <section class="jumbotron text-center">
 	<img src="themes/smm/img/logo_no_name.svg" class="logo" alt="Sharp Machine Logo" width="160px" height="187px">
-	<h1 class="title">UX Designer <span class="ampersand">&amp;</span> UI Developer</h1>
+	<h1 class="title">UX Designer</h1>
 	<h2 class="hidden-xs">Let's build epic things together</h2>
 	<div class="jumbo-call">
 		<a href="#work" class="btn btn-cream btn-lg" role="button">My Work</a>
@@ -82,11 +82,11 @@ Description: I love to create delightful experiences on the web
 				<img src="themes/smm/img/jesse.jpg" class="img-responsive" alt="Jesse Kade" width="1110" height="1110">
 			</div>
 			<div class="col-sm-6">
-				<p>User experience designer and front-end developer with a strong background in web-based products using user-centered design principles.</p>
-				<p>A few years ago I started Sharp Machine Media – a branding, strategy and design studio. We did some amazing projects and built an amazing team. Through it all I've learned so much and grew greatly, not only as a UXer and coder, but also as a leader.</p>
-				<p>Recently my wife and I decided to make a move to Orange County, CA to purse more opportunities in our respective fields. I'd like to join a team of great people that value excellence, innovation and personal growth. I firmly believe that when you surround yourself with great people great things happen.</p>
-				<p><small>note: I'm currently based in Redding, Ca but am moving to Orange County in a few months.</small></p>
-				<p>– Jesse</p>
+				<p>User experience designer with background in web-based products using user-centered design principles. I'm obsessed with building cool things with amazing people.  When you surround yourself with great people, great things happen.</p>
+				<p>Currently a UX team of one with Noble Software Group. I'm responsible for doing user research, usability testing, information architecture, interaction design, prototyping, and working with the back-end team to ship, all in a never-ending iterative loop.</p>
+				<p>From Jan. 2010 to Jan. 2015 I owned Sharp Machine Media – a branding, strategy and design agency. My client-facing responsibilities included UX design and UI development.</p>
+				<p>Besides that, I'm married to an amazing South African swimmer and we have our first child, a son, due in August.  We will be relocating to Seattle in the next 6-9 months.</p>
+				<p>P.S. – I'm currently available for UX consultation.</p>
 			</div>
 		</div>
 	</div>
